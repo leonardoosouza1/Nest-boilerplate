@@ -45,3 +45,19 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Utils commands
+
+```bash
+# Create a new migration
+$ npx prisma migrate dev --name <migration-name>
+
+# Clear all dockers
+$ docker stop $(docker ps -a -q) && docker rm $(docker ps -a -q)
+
+# Open bash
+$ docker exec -it <container-name> bash
+
+# Create tables
+$ npx prisma db push
+```
