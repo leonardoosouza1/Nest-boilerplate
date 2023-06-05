@@ -13,6 +13,7 @@ Boilerplate code for a NestJS application with a Postgres database, Prisma ORM, 
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Prettier](https://prettier.io/)
 - [ESLint](https://eslint.org/)
+- [Jest](https://jestjs.io/)
 
 ### adding soon
 
