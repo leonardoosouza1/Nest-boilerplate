@@ -16,7 +16,6 @@ Boilerplate code for a NestJS application with a Postgres database, Prisma ORM, 
 
 ### adding soon
 
-- [Jest](https://jestjs.io/)
 - [Swagger](https://swagger.io/)
 - [Husky](https://typicode.github.io/husky/#/)
 
